@@ -1,0 +1,22 @@
+{
+  "block.balanced_crates.open_spruce_crate": "Open Spruce Crate",
+  "block.balanced_crates.dark_oak_crate": "Dark Oak Crate",
+  "block.balanced_crates.open_dark_oak_crate": "Open Acacia Crate",
+  "block.balanced_crates.open_warped_crate": "Open Warped Crate",
+  "block.balanced_crates.crimson_crate": "Crimson Crate",
+  "block.balanced_crates.open_birch_crate": "Open Birch Crate",
+  "block.balanced_crates.jungle_crate_open": "Open Jungle Crate",
+  "itemGroup.tabbalanced_crates": "Balanced Crates",
+  "block.balanced_crates.open_oak_crate": "Open Oak Crate",
+  "block.balanced_crates.open_crimson_crate": "Open Crimson Crate",
+  "block.balanced_crates.jungle_crate": "Jungle Crate",
+  "block.balanced_crates.warped_crate": "Warped Crate",
+  "block.balanced_crates.oak_crate": "Oak Crate",
+  "block.balanced_crates.spruce_crate": "Spruce Crate",
+  "block.balanced_crates.industrial_crate": "Industrial Crate",
+  "block.balanced_crates.acacia_crate": "Acacia Crate",
+  "block.balanced_crates.open_industrial_crate": "Open Industrial Crate",
+  "block.balanced_crates.crate_ui": "Crate UI",
+  "block.balanced_crates.open_acacia_crate": "Open Acacia Crate",
+  "block.balanced_crates.birch_crate": "Birch Crate"
+}

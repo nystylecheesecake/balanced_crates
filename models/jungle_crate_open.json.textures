@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "jungle_crate_open",
+        "19": "jungle_crate"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "birch_crate_open",
+        "19": "birch_crate"
+      },
+      "name": "default"
+    }
+  }
+}

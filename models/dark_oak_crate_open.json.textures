@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "dark_oak_crate_open",
+        "19": "dark_oak_crate"
+      },
+      "name": "default"
+    }
+  }
+}

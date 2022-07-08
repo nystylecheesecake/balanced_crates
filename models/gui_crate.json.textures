@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "13": "crate_ui_animated",
+        "14": "crate_top_gui_animated"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "industrial_crate_open",
+        "19": "industrial_crate"
+      },
+      "name": "default"
+    }
+  }
+}

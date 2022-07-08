@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "acacia_crate_open",
+        "19": "acacia_crate"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "balanced_crates:custom/warped_crate_open",
+  "textures": {
+    "all": "balanced_crates:blocks/warped_crate",
+    "particle": "balanced_crates:blocks/warped_crate",
+    "5": "balanced_crates:blocks/warped_crate_open",
+    "19": "balanced_crates:blocks/warped_crate"
+  }
+}

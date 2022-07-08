@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "spruce_crate_open",
+        "19": "spruce_crate"
+      },
+      "name": "default"
+    }
+  }
+}

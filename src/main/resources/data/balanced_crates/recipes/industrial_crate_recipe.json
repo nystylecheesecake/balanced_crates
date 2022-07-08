@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:copper_ingot"
+    },
+    "1": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "2": {
+      "item": "minecraft:copper_ingot"
+    },
+    "3": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "4": {
+      "item": "minecraft:chest"
+    },
+    "5": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "6": {
+      "item": "minecraft:copper_ingot"
+    },
+    "7": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "8": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "balanced_crates:industrial_crate",
+    "count": 1
+  }
+}

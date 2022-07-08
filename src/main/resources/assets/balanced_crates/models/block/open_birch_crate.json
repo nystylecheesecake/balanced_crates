@@ -1,0 +1,9 @@
+{
+  "parent": "balanced_crates:custom/birch_crate_open",
+  "textures": {
+    "all": "balanced_crates:blocks/birch_crate",
+    "particle": "balanced_crates:blocks/birch_crate",
+    "5": "balanced_crates:blocks/birch_crate_open",
+    "19": "balanced_crates:blocks/birch_crate"
+  }
+}

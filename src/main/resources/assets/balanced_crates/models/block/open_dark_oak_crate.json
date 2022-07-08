@@ -1,0 +1,9 @@
+{
+  "parent": "balanced_crates:custom/dark_oak_crate_open",
+  "textures": {
+    "all": "balanced_crates:blocks/dark_oak_crate",
+    "particle": "balanced_crates:blocks/dark_oak_crate",
+    "5": "balanced_crates:blocks/dark_oak_crate_open",
+    "19": "balanced_crates:blocks/dark_oak_crate"
+  }
+}
