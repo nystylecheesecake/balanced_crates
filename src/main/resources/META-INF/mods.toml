@@ -1,14 +1,18 @@
 modLoader="javafml"
 loaderVersion="[40,)"
-license="Academic Free License v3.0"
+license="All Rights Reserved"
 
 [[mods]]
 modId="balanced_crates"
-version="1.0.0"
+version="1.0.0."
 displayName="Balanced Crates"
-credits="Created using mod maker MCreator - https://mcreator.net/about"
-displayURL="https://mcreator.net"
+credits="This mod was created by _nystylecheesecake_"
+displayURL="https://https://github.com/nystylecheesecake/balanced_crates"
+logoFile="logo.png"
 authors="_nystylecheesecake_"
+description='''
+Nifty storage blocks that also make great decorations.
+'''
 
 [[dependencies.balanced_crates]]
     modId="minecraft"
