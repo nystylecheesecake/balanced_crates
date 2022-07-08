@@ -1,12 +1,12 @@
 modLoader="javafml"
-loaderVersion="[40,)"
+loaderVersion="[36,)"
 license="All Rights Reserved"
 
 [[mods]]
 modId="balanced_crates"
-version="1.0.0."
+version="1.0.0"
 displayName="Balanced Crates"
-credits="This mod was created by _nystylecheesecake_"
+credits="Mod by _nystylecheesecake_  / Created with MCreator"
 displayURL="https://https://github.com/nystylecheesecake/balanced_crates"
 logoFile="logo.png"
 authors="_nystylecheesecake_"
@@ -17,7 +17,7 @@ Nifty storage blocks that also make great decorations.
 [[dependencies.balanced_crates]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.18.2]"
+    versionRange="[1.16.5]"
     ordering="NONE"
     side="BOTH"
 

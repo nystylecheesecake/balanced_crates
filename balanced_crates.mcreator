@@ -417,7 +417,7 @@
   "workspaceSettings": {
     "modid": "balanced_crates",
     "modName": "Balanced Crates",
-    "version": "1.0.0.",
+    "version": "1.0.0",
     "description": "Nifty storage blocks that also make great decorations.",
     "author": "_nystylecheesecake_",
     "websiteURL": "https://https://github.com/nystylecheesecake/balanced_crates",
@@ -429,8 +429,8 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.18.2",
-    "credits": "This mod was created by _nystylecheesecake_",
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Mod by _nystylecheesecake_  / Created with MCreator",
     "modElementsPackage": "balanced.crates",
     "lockBaseModFiles": false
   },
