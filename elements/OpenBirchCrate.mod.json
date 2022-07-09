@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "birch_crate_open:default",
+    "customModelName": "crate_open:birch",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": true,

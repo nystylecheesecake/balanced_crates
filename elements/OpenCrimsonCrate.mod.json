@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "crimson_crate_open:default",
+    "customModelName": "crate_open:crimson",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": true,

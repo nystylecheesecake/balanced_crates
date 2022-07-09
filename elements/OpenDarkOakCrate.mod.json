@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "dark_oak_crate_open:default",
+    "customModelName": "crate_open:dark_oak",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": true,

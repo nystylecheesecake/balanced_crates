@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "industrial_crate_open:default",
+    "customModelName": "crate_open:default",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": false,

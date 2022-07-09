@@ -1,9 +1,9 @@
 {
-  "parent": "balanced_crates:custom/gui_crate",
+  "parent": "balanced_crates:custom/crate_open",
   "textures": {
     "all": "balanced_crates:blocks/crate_ui_animated",
     "particle": "balanced_crates:blocks/crate_ui_animated",
-    "13": "balanced_crates:blocks/crate_ui_animated",
-    "14": "balanced_crates:blocks/crate_top_gui_animated"
+    "5": "balanced_crates:blocks/crate_ui_animated",
+    "19": "balanced_crates:blocks/crate_top_gui_animated"
   }
 }

@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "acacia_crate_open:default",
+    "customModelName": "crate_open:acacia",
     "rotationMode": 1,
     "emissiveRendering": false,
     "displayFluidOverlay": true,
