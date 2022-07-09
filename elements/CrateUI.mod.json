@@ -9,7 +9,7 @@
     "textureRight": "",
     "textureBack": "",
     "renderType": 2,
-    "customModelName": "crate_open:gui",
+    "customModelName": "crate_open:default",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,

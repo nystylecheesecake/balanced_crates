@@ -2,73 +2,73 @@
   "mappings": {
     "default": {
       "map": {
-        "5": "industrial_crate",
-        "19": "industrial_crate_open"
+        "4": "crate_top_gui_animated",
+        "20": "crate_ui_animated"
       },
       "name": "default"
     },
-    "oak": {
+    "industrial": {
       "map": {
-        "5": "oak_crate",
-        "19": "oak_crate_open"
+        "4": "industrial_crate_open",
+        "20": "industrial_crate"
       },
-      "name": "oak"
-    },
-    "spruce": {
-      "map": {
-        "5": "spruce_crate",
-        "19": "spruce_crate_open"
-      },
-      "name": "spruce"
+      "name": "industrial"
     },
     "birch": {
       "map": {
-        "5": "birch_crate",
-        "19": "birch_crate_open"
+        "4": "birch_crate_open",
+        "20": "birch_crate"
       },
       "name": "birch"
     },
-    "jungle": {
+    "oak": {
       "map": {
-        "5": "jungle_crate",
-        "19": "jungle_crate_open"
+        "4": "oak_crate_open",
+        "20": "oak_crate"
       },
-      "name": "jungle"
+      "name": "oak"
     },
     "acacia": {
       "map": {
-        "5": "acacia_crate",
-        "19": "acacia_crate_open"
+        "4": "acacia_crate_open",
+        "20": "acacia_crate"
       },
       "name": "acacia"
     },
+    "jungle": {
+      "map": {
+        "4": "jungle_crate_open",
+        "20": "jungle_crate"
+      },
+      "name": "jungle"
+    },
+    "spruce": {
+      "map": {
+        "4": "spruce_crate_open",
+        "20": "spruce_crate"
+      },
+      "name": "spruce"
+    },
     "dark_oak": {
       "map": {
-        "5": "dark_oak_crate",
-        "19": "dark_oak_crate_open"
+        "4": "dark_oak_crate_open",
+        "20": "dark_oak_crate"
       },
       "name": "dark_oak"
     },
     "crimson": {
       "map": {
-        "5": "crimson_crate",
-        "19": "crimson_crate_open"
+        "4": "crimson_crate_open",
+        "20": "crimson_crate"
       },
       "name": "crimson"
     },
     "warped": {
       "map": {
-        "5": "warped_crate",
-        "19": "warped_crate_open"
+        "4": "warped_crate_open",
+        "20": "warped_crate"
       },
       "name": "warped"
-    },
-    "gui": {
-      "map": {
-        "5": "crate_ui_animated",
-        "19": "crate_top_gui_animated"
-      },
-      "name": "gui"
     }
   }
 }

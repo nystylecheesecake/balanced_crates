@@ -10,13 +10,13 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.COPPER_INGOT"
+        "value": "Items.GOLD_INGOT"
       },
       {
         "value": "Blocks.WOODEN_SLAB"
       },
       {
-        "value": "Items.COPPER_INGOT"
+        "value": "Items.GOLD_INGOT"
       },
       {
         "value": "Blocks.WOODEN_SLAB"
@@ -28,19 +28,19 @@
         "value": "Blocks.WOODEN_SLAB"
       },
       {
-        "value": "Items.COPPER_INGOT"
+        "value": "Items.GOLD_INGOT"
       },
       {
         "value": "Blocks.WOODEN_SLAB"
       },
       {
-        "value": "Items.COPPER_INGOT"
+        "value": "Items.GOLD_INGOT"
       }
     ],
     "recipeReturnStack": {
       "value": "CUSTOM:IndustrialCrate"
     },
-    "name": "industrial_crate_recipe",
+    "name": "industrial_crate_recipe_1",
     "namespace": "mod"
   }
 }

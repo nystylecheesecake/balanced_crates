@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "balanced_crates:industrial_crate",
     "balanced_crates:oak_crate",
     "balanced_crates:spruce_crate",
     "balanced_crates:birch_crate",
@@ -9,7 +10,7 @@
     "balanced_crates:dark_oak_crate",
     "balanced_crates:crimson_crate",
     "balanced_crates:warped_crate",
-    "balanced_crates:industrial_crate",
+    "balanced_crates:open_industrial_crate",
     "balanced_crates:open_oak_crate",
     "balanced_crates:open_spruce_crate",
     "balanced_crates:open_birch_crate",
@@ -17,7 +18,6 @@
     "balanced_crates:open_acacia_crate",
     "balanced_crates:open_dark_oak_crate",
     "balanced_crates:open_crimson_crate",
-    "balanced_crates:open_warped_crate",
-    "balanced_crates:open_industrial_crate"
+    "balanced_crates:open_warped_crate"
   ]
 }

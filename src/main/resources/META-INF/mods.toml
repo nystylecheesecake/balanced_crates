@@ -1,5 +1,5 @@
 modLoader="javafml"
-loaderVersion="[40,)"
+loaderVersion="[36,)"
 license="All Rights Reserved"
 
 [[mods]]
@@ -17,7 +17,7 @@ Nifty storage blocks that also make great decorations.
 [[dependencies.balanced_crates]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.18.2]"
+    versionRange="[1.16.5]"
     ordering="NONE"
     side="BOTH"
 

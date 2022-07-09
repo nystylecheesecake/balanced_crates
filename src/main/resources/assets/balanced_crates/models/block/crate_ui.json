@@ -3,7 +3,7 @@
   "textures": {
     "all": "balanced_crates:blocks/crate_ui_animated",
     "particle": "balanced_crates:blocks/crate_ui_animated",
-    "5": "balanced_crates:blocks/crate_ui_animated",
-    "19": "balanced_crates:blocks/crate_top_gui_animated"
+    "4": "balanced_crates:blocks/crate_top_gui_animated",
+    "20": "balanced_crates:blocks/crate_ui_animated"
   }
 }
