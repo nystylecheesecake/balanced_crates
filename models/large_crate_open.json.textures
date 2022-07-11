@@ -1,0 +1,76 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": "industrial_crate",
+        "5": "industrial_crate_big",
+        "6": "industrial_crate_big_open"
+      },
+      "name": "default"
+    },
+    "oak": {
+      "map": {
+        "4": "oak_crate",
+        "5": "oak_crate_big",
+        "6": "oak_crate_big_open"
+      },
+      "name": "oak"
+    },
+    "spruce": {
+      "map": {
+        "4": "spruce_crate",
+        "5": "spruce_crate_big",
+        "6": "spruce_crate_big_open"
+      },
+      "name": "spruce"
+    },
+    "birch": {
+      "map": {
+        "4": "birch_crate",
+        "5": "birch_crate_big",
+        "6": "birch_crate_big_open"
+      },
+      "name": "birch"
+    },
+    "jungle": {
+      "map": {
+        "4": "jungle_crate",
+        "5": "jungle_crate_big",
+        "6": "jungle_crate_big_open"
+      },
+      "name": "jungle"
+    },
+    "acacia": {
+      "map": {
+        "4": "acacia_crate",
+        "5": "acacia_crate_big",
+        "6": "acacia_crate_big_open"
+      },
+      "name": "acacia"
+    },
+    "dark_oak": {
+      "map": {
+        "4": "dark_oak_crate",
+        "5": "dark_oak_crate_big",
+        "6": "dark_oak_crate_big_open"
+      },
+      "name": "dark_oak"
+    },
+    "crimson": {
+      "map": {
+        "4": "crimson_crate",
+        "5": "crimson_crate_big",
+        "6": "crimson_crate_big_open"
+      },
+      "name": "crimson"
+    },
+    "warped": {
+      "map": {
+        "4": "warped_crate",
+        "5": "warped_crate_big",
+        "6": "warped_crate_big_open"
+      },
+      "name": "warped"
+    }
+  }
+}

@@ -12,7 +12,7 @@
     {
       "name": "OpenOakCrate",
       "type": "block",
-      "sortid": 11,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "registry_name": "open_oak_crate",
@@ -21,7 +21,7 @@
     {
       "name": "BalancedCrates",
       "type": "tab",
-      "sortid": 19,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "registry_name": "balanced_crates",
@@ -30,7 +30,7 @@
     {
       "name": "CrateUI",
       "type": "block",
-      "sortid": 20,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crate_ui"
@@ -47,7 +47,7 @@
     {
       "name": "CrateClose",
       "type": "procedure",
-      "sortid": 21,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crate_close",
@@ -80,7 +80,7 @@
     {
       "name": "CrateOpen",
       "type": "procedure",
-      "sortid": 22,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crate_open",
@@ -113,7 +113,7 @@
     {
       "name": "CrateGUI",
       "type": "gui",
-      "sortid": 23,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crate_gui",
@@ -131,7 +131,7 @@
     {
       "name": "OpenSpruceCrate",
       "type": "block",
-      "sortid": 12,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "registry_name": "open_spruce_crate",
@@ -140,7 +140,7 @@
     {
       "name": "OpenBirchCrate",
       "type": "block",
-      "sortid": 13,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "open_birch_crate",
@@ -158,7 +158,7 @@
     {
       "name": "JungleCrateOpen",
       "type": "block",
-      "sortid": 14,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_crate_open",
@@ -176,7 +176,7 @@
     {
       "name": "OpenAcaciaCrate",
       "type": "block",
-      "sortid": 15,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "registry_name": "open_acacia_crate",
@@ -194,7 +194,7 @@
     {
       "name": "OpenDarkOakCrate",
       "type": "block",
-      "sortid": 16,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "registry_name": "open_dark_oak_crate",
@@ -212,7 +212,7 @@
     {
       "name": "OpenCrimsonCrate",
       "type": "block",
-      "sortid": 17,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "registry_name": "open_crimson_crate",
@@ -230,7 +230,7 @@
     {
       "name": "OpenWarpedCrate",
       "type": "block",
-      "sortid": 18,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "registry_name": "open_warped_crate",
@@ -248,7 +248,7 @@
     {
       "name": "OpenIndustrialCrate",
       "type": "block",
-      "sortid": 10,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "registry_name": "open_industrial_crate",
@@ -257,7 +257,7 @@
     {
       "name": "OakCrateRecipe",
       "type": "recipe",
-      "sortid": 24,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "registry_name": "oak_crate_recipe",
@@ -266,7 +266,7 @@
     {
       "name": "SpruceCrateRecipe",
       "type": "recipe",
-      "sortid": 25,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "registry_name": "spruce_crate_recipe",
@@ -275,7 +275,7 @@
     {
       "name": "BirchCrateRecipe",
       "type": "recipe",
-      "sortid": 26,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "registry_name": "birch_crate_recipe",
@@ -284,7 +284,7 @@
     {
       "name": "JungleCrateRecipe",
       "type": "recipe",
-      "sortid": 27,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "registry_name": "jungle_crate_recipe",
@@ -293,7 +293,7 @@
     {
       "name": "AcaciaCrateRecipe",
       "type": "recipe",
-      "sortid": 28,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "registry_name": "acacia_crate_recipe",
@@ -302,7 +302,7 @@
     {
       "name": "DarkOakCrateRecipe",
       "type": "recipe",
-      "sortid": 29,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "registry_name": "dark_oak_crate_recipe",
@@ -311,7 +311,7 @@
     {
       "name": "CrimsonCrateRecipe",
       "type": "recipe",
-      "sortid": 30,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "registry_name": "crimson_crate_recipe",
@@ -320,7 +320,7 @@
     {
       "name": "WarpedCrateRecipe",
       "type": "recipe",
-      "sortid": 31,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "registry_name": "warped_crate_recipe",
@@ -329,7 +329,7 @@
     {
       "name": "IndustrialCrateRecipe",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "registry_name": "industrial_crate_recipe",
@@ -338,7 +338,7 @@
     {
       "name": "GiveCrateRecipes",
       "type": "procedure",
-      "sortid": 33,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "registry_name": "give_crate_recipes",
@@ -359,7 +359,7 @@
     {
       "name": "LargeCrateGUI",
       "type": "gui",
-      "sortid": 34,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "registry_name": "large_crate_gui",
@@ -368,11 +368,357 @@
     {
       "name": "IndustrialCrateRecipe1",
       "type": "recipe",
-      "sortid": 35,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "registry_name": "industrial_crate_recipe_1",
       "path": "~/Crates/CrateRecipes"
+    },
+    {
+      "name": "LargeOakCrate",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_oak_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeSpruceCrate",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_spruce_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeBirchCrate",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_birch_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeJungleCrate",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_jungle_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeAcaciaCrate",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_acacia_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeDarkOakCrate",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_dark_oak_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeCrimsonCrate",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_crimson_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeWarpedCrate",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_warped_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeIndustrialCrate",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_industrial_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeOakCrate",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_oak_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeCrateClose",
+      "type": "procedure",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_crate_close",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeCrateOpen",
+      "type": "procedure",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_crate_open",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeSpruceCrate",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_spruce_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeBirchCrate",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_birch_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeJungleCrate",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_jungle_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeAcaciaCrate",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_acacia_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeDarkOakCrate",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_dark_oak_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeCrimsonCrate",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_crimson_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeWarpedCrate",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_warped_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "OpenLargeIndustrialCrate",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "open_large_industrial_crate",
+      "path": "~/LargeCrates"
+    },
+    {
+      "name": "LargeOakCrateRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_oak_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeSpruceCrateRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_spruce_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeBirchCrateRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_birch_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeJungleCrateRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_jungle_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeAcaciaCrateRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_acacia_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeDarkOakCrateRecipe",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_dark_oak_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeCrimsonCrateRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_crimson_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeWarpedCrateRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_warped_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeIndustrialCrateRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_industrial_crate_recipe",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "LargeIndustrialCrateRecipe1",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "large_industrial_crate_recipe_1",
+      "path": "~/LargeCrates/LargeCrateRecipes"
+    },
+    {
+      "name": "Crates",
+      "type": "tag",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crates"
+    },
+    {
+      "name": "GiveLargeCrateRecipe",
+      "type": "procedure",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "give_large_crate_recipe",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -380,25 +726,43 @@
   "language_map": {
     "en_us": {
       "block.balanced_crates.open_spruce_crate": "Open Spruce Crate",
-      "block.balanced_crates.dark_oak_crate": "Dark Oak Crate",
-      "block.balanced_crates.open_dark_oak_crate": "Open Acacia Crate",
       "block.balanced_crates.open_warped_crate": "Open Warped Crate",
       "block.balanced_crates.crimson_crate": "Crimson Crate",
+      "block.balanced_crates.open_large_oak_crate": "Open Large Oak Crate",
       "block.balanced_crates.open_birch_crate": "Open Birch Crate",
-      "block.balanced_crates.jungle_crate_open": "Open Jungle Crate",
+      "block.balanced_crates.open_large_crimson_crate": "Open Large Crimson Crate",
       "itemGroup.tabbalanced_crates": "Balanced Crates",
-      "block.balanced_crates.open_oak_crate": "Open Oak Crate",
+      "block.balanced_crates.open_large_jungle_crate": "Open Large Jungle Crate",
+      "block.balanced_crates.large_oak_crate": "Large Oak Crate",
+      "block.balanced_crates.open_large_acacia_crate": "Open Large Acacia Crate",
+      "block.balanced_crates.open_large_spruce_crate": "Open Large Spruce Crate",
       "block.balanced_crates.open_crimson_crate": "Open Crimson Crate",
-      "block.balanced_crates.jungle_crate": "Jungle Crate",
+      "block.balanced_crates.large_industrial_crate": "Large Industrial Crate",
       "block.balanced_crates.warped_crate": "Warped Crate",
       "block.balanced_crates.oak_crate": "Oak Crate",
-      "block.balanced_crates.spruce_crate": "Spruce Crate",
       "block.balanced_crates.industrial_crate": "Industrial Crate",
-      "block.balanced_crates.acacia_crate": "Acacia Crate",
+      "block.balanced_crates.large_dark_oak_crate": "Large Dark Oak Crate",
+      "block.balanced_crates.open_large_industrial_crate": "Open Large Industrial Crate",
+      "block.balanced_crates.open_large_birch_crate": "Open Large Birch Crate",
+      "block.balanced_crates.large_crimson_crate": "Large Crimson Crate",
       "block.balanced_crates.open_industrial_crate": "Open Industrial Crate",
-      "block.balanced_crates.crate_ui": "Crate UI",
       "block.balanced_crates.open_acacia_crate": "Open Acacia Crate",
-      "block.balanced_crates.birch_crate": "Birch Crate"
+      "block.balanced_crates.birch_crate": "Birch Crate",
+      "block.balanced_crates.dark_oak_crate": "Dark Oak Crate",
+      "block.balanced_crates.open_dark_oak_crate": "Open Acacia Crate",
+      "block.balanced_crates.jungle_crate_open": "Open Jungle Crate",
+      "block.balanced_crates.large_acacia_crate": "Large Acacia Crate",
+      "block.balanced_crates.open_oak_crate": "Open Oak Crate",
+      "block.balanced_crates.open_large_dark_oak_crate": "Open Large Dark Oak Crate",
+      "block.balanced_crates.large_jungle_crate": "Large Jungle Crate",
+      "block.balanced_crates.jungle_crate": "Jungle Crate",
+      "block.balanced_crates.large_spruce_crate": "Large Spruce Crate",
+      "block.balanced_crates.spruce_crate": "Spruce Crate",
+      "block.balanced_crates.acacia_crate": "Acacia Crate",
+      "block.balanced_crates.large_birch_crate": "Large Birch Crate",
+      "block.balanced_crates.crate_ui": "Crate UI",
+      "block.balanced_crates.open_large_warped_crate": "Open Large Warped Crate",
+      "block.balanced_crates.large_warped_crate": "Large Warped Crate"
     }
   },
   "foldersRoot": {
@@ -419,14 +783,19 @@
       },
       {
         "name": "LargeCrates",
-        "children": []
+        "children": [
+          {
+            "name": "LargeCrateRecipes",
+            "children": []
+          }
+        ]
       }
     ]
   },
   "workspaceSettings": {
     "modid": "balanced_crates",
     "modName": "Balanced Crates",
-    "version": "1.0.10",
+    "version": "b1.1.0",
     "description": "Nifty storage blocks that also make great decorations.",
     "author": "_nystylecheesecake_",
     "websiteURL": "https://https://github.com/nystylecheesecake/balanced_crates",
@@ -438,7 +807,7 @@
     "dependencies": [],
     "dependants": [],
     "mcreatorDependencies": [],
-    "currentGenerator": "forge-1.16.5",
+    "currentGenerator": "forge-1.18.2",
     "credits": "Mod by _nystylecheesecake_  / Created with MCreator",
     "modElementsPackage": "balanced.crates",
     "lockBaseModFiles": false

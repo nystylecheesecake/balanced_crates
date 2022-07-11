@@ -7,13 +7,13 @@
   ],
   "key": {
     "0": {
-      "item": "minecraft:air"
+      "item": "minecraft:copper_ingot"
     },
     "1": {
       "tag": "minecraft:wooden_slabs"
     },
     "2": {
-      "item": "minecraft:air"
+      "item": "minecraft:copper_ingot"
     },
     "3": {
       "tag": "minecraft:wooden_slabs"
@@ -25,13 +25,13 @@
       "tag": "minecraft:wooden_slabs"
     },
     "6": {
-      "item": "minecraft:air"
+      "item": "minecraft:copper_ingot"
     },
     "7": {
       "tag": "minecraft:wooden_slabs"
     },
     "8": {
-      "item": "minecraft:air"
+      "item": "minecraft:copper_ingot"
     }
   },
   "result": {

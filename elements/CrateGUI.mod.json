@@ -519,7 +519,7 @@
         "data": {
           "text": "Inventory",
           "color": {
-            "value": -12829636,
+            "value": -432260036,
             "falpha": 0.0
           },
           "name": "Inventory",
@@ -671,8 +671,8 @@
       "sx": 18,
       "sy": 18,
       "ox": 12,
-      "oy": 14,
-      "snapOnGrid": false
+      "oy": 17,
+      "snapOnGrid": true
     }
   }
 }

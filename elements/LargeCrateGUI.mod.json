@@ -544,6 +544,9 @@
         "type": "button",
         "data": {
           "text": "Close Crate",
+          "onClick": {
+            "name": "LargeCrateClose"
+          },
           "width": 82,
           "height": 20,
           "name": "Close Crate",

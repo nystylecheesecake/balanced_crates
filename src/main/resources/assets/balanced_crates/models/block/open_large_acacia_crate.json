@@ -1,0 +1,10 @@
+{
+  "parent": "balanced_crates:custom/large_crate_open",
+  "textures": {
+    "all": "balanced_crates:blocks/acacia_crate",
+    "particle": "balanced_crates:blocks/acacia_crate",
+    "4": "balanced_crates:blocks/acacia_crate",
+    "5": "balanced_crates:blocks/acacia_crate_big",
+    "6": "balanced_crates:blocks/acacia_crate_big_open"
+  }
+}

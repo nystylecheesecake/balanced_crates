@@ -1,0 +1,122 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:OakCrate"
+      },
+      {
+        "value": "CUSTOM:OpenOakCrate"
+      },
+      {
+        "value": "CUSTOM:SpruceCrate"
+      },
+      {
+        "value": "CUSTOM:BirchCrate"
+      },
+      {
+        "value": "CUSTOM:OpenSpruceCrate"
+      },
+      {
+        "value": "CUSTOM:OpenBirchCrate"
+      },
+      {
+        "value": "CUSTOM:JungleCrate"
+      },
+      {
+        "value": "CUSTOM:JungleCrateOpen"
+      },
+      {
+        "value": "CUSTOM:AcaciaCrate"
+      },
+      {
+        "value": "CUSTOM:OpenAcaciaCrate"
+      },
+      {
+        "value": "CUSTOM:DarkOakCrate"
+      },
+      {
+        "value": "CUSTOM:OpenDarkOakCrate"
+      },
+      {
+        "value": "CUSTOM:CrimsonCrate"
+      },
+      {
+        "value": "CUSTOM:OpenCrimsonCrate"
+      },
+      {
+        "value": "CUSTOM:WarpedCrate"
+      },
+      {
+        "value": "CUSTOM:OpenWarpedCrate"
+      },
+      {
+        "value": "CUSTOM:IndustrialCrate"
+      },
+      {
+        "value": "CUSTOM:OpenIndustrialCrate"
+      },
+      {
+        "value": "CUSTOM:LargeOakCrate"
+      },
+      {
+        "value": "CUSTOM:LargeSpruceCrate"
+      },
+      {
+        "value": "CUSTOM:LargeBirchCrate"
+      },
+      {
+        "value": "CUSTOM:LargeJungleCrate"
+      },
+      {
+        "value": "CUSTOM:LargeAcaciaCrate"
+      },
+      {
+        "value": "CUSTOM:LargeDarkOakCrate"
+      },
+      {
+        "value": "CUSTOM:LargeCrimsonCrate"
+      },
+      {
+        "value": "CUSTOM:LargeWarpedCrate"
+      },
+      {
+        "value": "CUSTOM:LargeIndustrialCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeOakCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeSpruceCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeBirchCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeJungleCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeAcaciaCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeDarkOakCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeCrimsonCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeWarpedCrate"
+      },
+      {
+        "value": "CUSTOM:OpenLargeIndustrialCrate"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "crates",
+    "namespace": "forge"
+  }
+}

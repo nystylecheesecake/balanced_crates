@@ -1,0 +1,10 @@
+{
+  "parent": "balanced_crates:custom/large_crate_open",
+  "textures": {
+    "all": "balanced_crates:blocks/crimson_crate",
+    "particle": "balanced_crates:blocks/crimson_crate",
+    "4": "balanced_crates:blocks/crimson_crate",
+    "5": "balanced_crates:blocks/crimson_crate_big",
+    "6": "balanced_crates:blocks/crimson_crate_big_open"
+  }
+}
